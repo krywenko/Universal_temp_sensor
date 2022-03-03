@@ -1,2 +1,2 @@
 # Universal_temp_sensor
-univeral temp sensor for various resistance anf thermocoupler  temperature sensensors  using ADS1115
+univeral temperature sensor for various resistance and thermocoupler  sensors  using ADS1115
