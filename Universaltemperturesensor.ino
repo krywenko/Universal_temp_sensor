@@ -1,6 +1,6 @@
 
 #include <math.h>
-float Vo = 3.29;
+float Vo = 3.29;  // the more acturate the better 
 int sample = 50;
 float To = 298.15; // Nominal Temperature
 
@@ -113,8 +113,7 @@ void loop()
 }
 
 void THERMO() {
- ADS.setGain(1
- );
+ ADS.setGain(1); 
 float T1 = 0;
 float T2 = 0;
 float T3 = 0;
